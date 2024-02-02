@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SRZc4lc4EqSJpY9PFIXZKtZ7eSLJLLHaZEMEseeI9TA=",
+  "Source": "CaesarCipherAPI",
+  "BasePath": "_content/CaesarCipherAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
