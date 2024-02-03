@@ -2,32 +2,41 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
 
-namespace MyApp.Controllers
+namespace MyApp 
 {
     [Route("api/cipher")]
     [ApiController]
     public class CipherController : ControllerBase
     {
         [HttpGet("hej")]
-        public ActionResult<string> Fuck()
+        public ActionResult<string> Greet()
         {
-            return Ok("fuckyou");
+            return Ok("Good night");
         }
 
-        [HttpPost("encrypt")]
+       [HttpPost("encrypt")]
         public ActionResult<string> Encrypt([FromBody] string plainText)
         {
             Console.WriteLine("Post request from /encrypt: " + plainText);
-            // You can perform encryption logic here if needed
-            return Ok("Post request from /encrypt: " + plainText);
+
+            // Encrypt lokgik
+            int shift = 3; // shift value 3 kan ändra
+            string encryptedText = CaesarCipher.Encrypt(plainText, shift);
+
+            return Ok("Encrypted text: " + encryptedText);
         }
+
 
         [HttpPost("decrypt")]
         public ActionResult<string> Decrypt([FromBody] string cipherText)
         {
             Console.WriteLine("Post request from /decrypt: " + cipherText);
-            // You can perform decryption logic here if needed
-            return Ok();
+
+            // Decrypt logik 
+           int shift = 3; // samma värde 
+           string decryptedText = CaesarCipher.Decrypt(cipherText, shift);
+
+            return Ok("Decrypted text: " + decryptedText);
         }
     }
 }
