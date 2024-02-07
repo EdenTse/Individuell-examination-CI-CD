@@ -1,10 +1,17 @@
 /Users/edentsegay/Projects/Individuell-examination-CI-CD/CaesarCipherAPI/bin/Debug/net8.0/appsettings.Development.json
 /Users/edentsegay/Projects/Individuell-examination-CI-CD/CaesarCipherAPI/bin/Debug/net8.0/appsettings.json
+/Users/edentsegay/Projects/Individuell-examination-CI-CD/CaesarCipherAPI/bin/Debug/net8.0/CaesarCipherTests/obj/CaesarCipherTests.csproj.nuget.dgspec.json
+/Users/edentsegay/Projects/Individuell-examination-CI-CD/CaesarCipherAPI/bin/Debug/net8.0/CaesarCipherTests/obj/project.assets.json
 /Users/edentsegay/Projects/Individuell-examination-CI-CD/CaesarCipherAPI/bin/Debug/net8.0/CaesarCipherAPI
 /Users/edentsegay/Projects/Individuell-examination-CI-CD/CaesarCipherAPI/bin/Debug/net8.0/CaesarCipherAPI.deps.json
 /Users/edentsegay/Projects/Individuell-examination-CI-CD/CaesarCipherAPI/bin/Debug/net8.0/CaesarCipherAPI.runtimeconfig.json
 /Users/edentsegay/Projects/Individuell-examination-CI-CD/CaesarCipherAPI/bin/Debug/net8.0/CaesarCipherAPI.dll
 /Users/edentsegay/Projects/Individuell-examination-CI-CD/CaesarCipherAPI/bin/Debug/net8.0/CaesarCipherAPI.pdb
+/Users/edentsegay/Projects/Individuell-examination-CI-CD/CaesarCipherAPI/bin/Debug/net8.0/xunit.abstractions.dll
+/Users/edentsegay/Projects/Individuell-examination-CI-CD/CaesarCipherAPI/bin/Debug/net8.0/xunit.assert.dll
+/Users/edentsegay/Projects/Individuell-examination-CI-CD/CaesarCipherAPI/bin/Debug/net8.0/xunit.core.dll
+/Users/edentsegay/Projects/Individuell-examination-CI-CD/CaesarCipherAPI/bin/Debug/net8.0/xunit.execution.dotnet.dll
+/Users/edentsegay/Projects/Individuell-examination-CI-CD/CaesarCipherAPI/obj/Debug/net8.0/CaesarCipherAPI.csproj.AssemblyReference.cache
 /Users/edentsegay/Projects/Individuell-examination-CI-CD/CaesarCipherAPI/obj/Debug/net8.0/CaesarCipherAPI.GeneratedMSBuildEditorConfig.editorconfig
 /Users/edentsegay/Projects/Individuell-examination-CI-CD/CaesarCipherAPI/obj/Debug/net8.0/CaesarCipherAPI.AssemblyInfoInputs.cache
 /Users/edentsegay/Projects/Individuell-examination-CI-CD/CaesarCipherAPI/obj/Debug/net8.0/CaesarCipherAPI.AssemblyInfo.cs
@@ -19,6 +26,7 @@
 /Users/edentsegay/Projects/Individuell-examination-CI-CD/CaesarCipherAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.CaesarCipherAPI.props
 /Users/edentsegay/Projects/Individuell-examination-CI-CD/CaesarCipherAPI/obj/Debug/net8.0/staticwebassets.pack.json
 /Users/edentsegay/Projects/Individuell-examination-CI-CD/CaesarCipherAPI/obj/Debug/net8.0/scopedcss/bundle/CaesarCipherAPI.styles.css
+/Users/edentsegay/Projects/Individuell-examination-CI-CD/CaesarCipherAPI/obj/Debug/net8.0/CaesarCipherAPI.csproj.CopyComplete
 /Users/edentsegay/Projects/Individuell-examination-CI-CD/CaesarCipherAPI/obj/Debug/net8.0/CaesarCipherAPI.dll
 /Users/edentsegay/Projects/Individuell-examination-CI-CD/CaesarCipherAPI/obj/Debug/net8.0/refint/CaesarCipherAPI.dll
 /Users/edentsegay/Projects/Individuell-examination-CI-CD/CaesarCipherAPI/obj/Debug/net8.0/CaesarCipherAPI.pdb
