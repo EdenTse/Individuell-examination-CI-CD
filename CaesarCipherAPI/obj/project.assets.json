@@ -4761,11 +4761,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/edentsegay/Projects/Individuell-examination-CI-CD/CaesarCipherAPI/CaesarCipherAPI.csproj",
+      "projectUniqueName": "/Users/edentsegay/Individuell-examination-CI-CD/CaesarCipherAPI/CaesarCipherAPI.csproj",
       "projectName": "CaesarCipherAPI",
-      "projectPath": "/Users/edentsegay/Projects/Individuell-examination-CI-CD/CaesarCipherAPI/CaesarCipherAPI.csproj",
+      "projectPath": "/Users/edentsegay/Individuell-examination-CI-CD/CaesarCipherAPI/CaesarCipherAPI.csproj",
       "packagesPath": "/Users/edentsegay/.nuget/packages/",
-      "outputPath": "/Users/edentsegay/Projects/Individuell-examination-CI-CD/CaesarCipherAPI/obj/",
+      "outputPath": "/Users/edentsegay/Individuell-examination-CI-CD/CaesarCipherAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/edentsegay/.nuget/NuGet/NuGet.Config"
