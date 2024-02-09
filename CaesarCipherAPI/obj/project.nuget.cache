@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Xa8jEjD/wOJWLM+3R8dfyn/PWD2XiVhU3ryp2wQl6G3UI77G5ks/aq4rkB6TuNH2r/G04WbZr62sjLkACvjF3Q==",
+  "dgSpecHash": "2bGMlbQV4HMNVeluXaNDXgfFSZdtscK/3c3XxgELzlS0Gx7eWRqJtZcLGBy6CSijEz/G8rVEdWGxlWEOtJp0Ww==",
   "success": true,
   "projectFilePath": "/Users/edentsegay/Individuell-examination-CI-CD/CaesarCipherAPI/CaesarCipherAPI.csproj",
   "expectedPackageFiles": [
@@ -83,7 +83,10 @@
     "/Users/edentsegay/.nuget/packages/xunit.assert/2.4.1/xunit.assert.2.4.1.nupkg.sha512",
     "/Users/edentsegay/.nuget/packages/xunit.core/2.4.1/xunit.core.2.4.1.nupkg.sha512",
     "/Users/edentsegay/.nuget/packages/xunit.extensibility.core/2.4.1/xunit.extensibility.core.2.4.1.nupkg.sha512",
-    "/Users/edentsegay/.nuget/packages/xunit.extensibility.execution/2.4.1/xunit.extensibility.execution.2.4.1.nupkg.sha512"
+    "/Users/edentsegay/.nuget/packages/xunit.extensibility.execution/2.4.1/xunit.extensibility.execution.2.4.1.nupkg.sha512",
+    "/Users/edentsegay/.nuget/packages/microsoft.netcore.app.ref/6.0.26/microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "/Users/edentsegay/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.26/microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "/Users/edentsegay/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.26/microsoft.netcore.app.host.osx-x64.6.0.26.nupkg.sha512"
   ],
   "logs": []
 }
